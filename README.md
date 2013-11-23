@@ -1,4 +1,8 @@
 geocentre-to-osm
 ================
 
-Repo that contains Geocentre Consulting to OpenStreetMap format converter to use commercial data with open source tools
+Geocentre Consulting to OpenStreetMap format converter.
+
+Based on dataset description from ~2011 and was successfully used to push routing graph into Gosmore rendering engine.
+
+Feel free to adapt to your own needs, pull requests are welcome.
